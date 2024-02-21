@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
-- 🌱 I’m currently learning **Develhope**
+- 🌱 I’m currently studying at **Develhope**
 
 - 📫 How to reach me **simoneliotta99@gmail.com**
 
